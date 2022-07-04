@@ -6,10 +6,8 @@ menu:
   sidebar:
     name: Markdown Sample
     identifier: markdown
+    parent: blog-tool
     weight: 30
-author:
-  name: Jessica Jonas
-  image: /images/author/jessica.png
 math: true
 ---
 

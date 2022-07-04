@@ -6,6 +6,7 @@ menu:
   sidebar:
     name: Introduction
     identifier: introduction
+    parent: architecture
     weight: 10
 tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
