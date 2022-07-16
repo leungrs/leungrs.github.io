@@ -6,6 +6,7 @@ menu:
   sidebar:
     name: Shortcodes Sample
     identifier: shortcodes
+    parent: blog-tool
     weight: 40
 hero: boat.jpg
 mermaid: true
